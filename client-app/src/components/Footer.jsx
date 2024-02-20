@@ -1,6 +1,5 @@
 import { Footer, FooterDivider } from "flowbite-react";
 import {
-  FaBalanceScaleLeft,
   FaFacebook,
   FaGithub,
   FaLinkedin,
